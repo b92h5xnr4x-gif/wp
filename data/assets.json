@@ -46,8 +46,7 @@
         "/assets/js/avia-snippet-lightbox.min_-173e7619.js",
         "/assets/js/avia-snippet-sticky-header.min_-7aa58e93.js",
         "/assets/js/avia-snippet-footer-effects.min_-b3058f2c.js",
-        "/assets/js/avia-snippet-widget.min_-d0e1008f.js",
-        "/assets/js/comment-reply.min_-d540b247.js"
+        "/assets/js/avia-snippet-widget.min_-d0e1008f.js"
     ],
     "map": {
         "http://anchorplumbingcom.local/wp-content/themes/enfold/css/grid.min.css?ver=7.1.2": "/assets/css/grid.min_-d23bac7c.css",
@@ -140,8 +139,6 @@
         "/wp-content/themes/enfold/js/avia-snippet-footer-effects.min.js?ver=7.1.2": "/assets/js/avia-snippet-footer-effects.min_-b3058f2c.js",
         "http://anchorplumbingcom.local/wp-content/themes/enfold/js/avia-snippet-widget.min.js?ver=7.1.2": "/assets/js/avia-snippet-widget.min_-d0e1008f.js",
         "/wp-content/themes/enfold/js/avia-snippet-widget.min.js?ver=7.1.2": "/assets/js/avia-snippet-widget.min_-d0e1008f.js",
-        "http://anchorplumbingcom.local/wp-includes/js/comment-reply.min.js?ver=6.8.3": "/assets/js/comment-reply.min_-d540b247.js",
-        "/wp-includes/js/comment-reply.min.js?ver=6.8.3": "/assets/js/comment-reply.min_-d540b247.js",
         "http://anchorplumbingcom.local/wp-content/themes/enfold/images/layout/logo.png": "/assets/media/logo-f6475ef4.png",
         "/wp-content/themes/enfold/images/layout/logo.png": "/assets/media/logo-f6475ef4.png",
         "http://anchorplumbingcom.local/wp-content/uploads/2025/11/2home7O5A0832-1500x630.jpg": "/assets/media/2home7O5A0832-1500x630-44d53f43.jpg",
